@@ -25,4 +25,7 @@ Two habits worth having from the start:
 
 Write your assigned seed here so you don't lose it:
 
-    STUDENT_SEED =
+    STUDENT_SEED = 5
+
+On this Windows checkout, run `. ./start-project.ps1` from the repository root
+in each new PowerShell session to select the project environment and seed.
